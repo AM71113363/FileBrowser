@@ -1,5 +1,5 @@
 package sss.am71113363.filebrowser;
-
+//Copyright AM71113363
 public class BAG
 {
 	private String name;  //fileName (not a path)
