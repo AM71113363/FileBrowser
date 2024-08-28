@@ -1,5 +1,5 @@
 package sss.am71113363.filebrowser;
-
+//Copyright AM71113363
 import android.app.*;
 import android.content.*;
 import android.graphics.*;
