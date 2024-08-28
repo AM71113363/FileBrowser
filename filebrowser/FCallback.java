@@ -15,7 +15,7 @@ import android.text.*;
 import android.graphics.drawable.*;
 import android.graphics.drawable.shapes.*;
 import android.transition.*;
-//remove the some of the imports above,I forgot to remove them,
+//remove some of the imports above,I forgot to remove them,
 //this interface had more functions,but the app was becoming more
 //complex to understand I decided to remove them,but forgot the imports
 //Even the Lib was compiled with them.
