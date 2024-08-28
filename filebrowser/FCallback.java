@@ -19,7 +19,7 @@ import android.transition.*;
 //this interface had more functions,but the app was becoming more
 //complex to understand and I decided to remove them,but forgot the imports
 //Even the Lib was compiled with them.
-//Usually I get warning for unused imports/objects/etc...
+//Usually I get warnings for unused imports/objects/etc...
 //I don't know how I missed this
 public interface FCallback
 {
