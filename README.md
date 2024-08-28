@@ -3,8 +3,6 @@
 </p>
 <img align="center" width="286" height="401" src="https://raw.githubusercontent.com/AM71113363/FileBrowser/master/info2.png">
 </p>
-# FileBrowser
------
 
 ## What it is?<br>
 It just a library to explore sdcard,and pick a folder,a file,a file with a certain extention.<br>
