@@ -1,7 +1,8 @@
 <p align="center">
-<img align="center" width="288" height="570" src="https://raw.githubusercontent.com/AM71113363/FileBrowser/master/image.png">
+<img align="center" width="288" height="260" src="https://raw.githubusercontent.com/AM71113363/FileBrowser/master/info1.png">
 </p>
-
+<img align="center" width="286" height="401" src="https://raw.githubusercontent.com/AM71113363/FileBrowser/master/info2.png">
+</p>
 # FileBrowser
 -----
 
