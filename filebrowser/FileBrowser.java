@@ -1,6 +1,5 @@
 package sss.am71113363.filebrowser;
-
-// android.app.*;
+//Copyright AM71113363
 import android.content.*;
 import android.graphics.*;
 import android.os.*;
@@ -9,13 +8,8 @@ import android.view.View.*;
 import android.widget.*;
 import java.util.*;
 import java.io.*;
-// android.util.*;
 import android.text.*;
 import android.graphics.drawable.*;
-// android.graphics.drawable.shapes.*;
-
-
-
 
 public class FileBrowser
 {
