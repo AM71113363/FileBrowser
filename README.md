@@ -11,7 +11,7 @@ It just a library to explore sdcard,and pick a folder,a file,a file with a certa
 
 ## Build.
 ●the source of lib is in the filebrowser folder<br>
-●the source of the apk is in the main folder.l,,<br>
+●the source of the apk is in the main folder,<br>
 I'm not creating a bunch of folders here,so read the package in java files and create the folders if you want to build it.<br>
 
 # NOTE
